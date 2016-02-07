@@ -1,0 +1,8 @@
+{
+    "path": "benchmarks",
+    "retry_threshold": 5,
+    "storage": "sqlite",
+    "extensions": [
+        "PhpBench\\Extensions\\Sqlite\\SqliteExtension"
+    ]
+}
